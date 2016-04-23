@@ -1,0 +1,2 @@
+# toriqq
+toriqus
